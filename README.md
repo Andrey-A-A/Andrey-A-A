@@ -13,7 +13,7 @@
 ### About me
 - 🔭 I am considering a career change towards front-end development. I have completed the Middle frontend developer online courses and am looking for an opportunity to put my knowledge into practice. Ready to take a test task to demonstrate the level of skills..
 - 📫 How to reach me https://t.me/Anisimov_A_A , email: anisimov-aa@bk.ru
-- 🌱 My favorite tech stack: TypeScript, React, Redux, Git, Docker, Vite, HTML5, SASS, Node.JS
+- 🌱 My favorite tech stack: TypeScript, React, Redux, Angular, Git, Docker, Vite, HTML5, SASS, Node.JS
 
 ### Languages and tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="js" width="40" height="40"/>&nbsp;
